@@ -53,21 +53,21 @@ Project Structure
 root
 │
 ├── backend
-│   ├── server.js               # Main Node.js server file
-│   ├── routes                  # API routes for communication
-│   ├── controllers             # Backend logic for API endpoints
-│   ├── python_modules          # Python scripts for ML and OpenCV
-│   └── .env                    # Environment variables
+│   ├── server.js               
+│   ├── routes                 
+│   ├── controllers             
+│   ├── python_modules       
+│   └── .env                   
 │
 ├── frontend
-│   ├── public                  # Static assets
+│   ├── public                  
 │   ├── src
-│   │   ├── components          # React components for UI
-│   │   ├── pages               # Page structures for the app
-│   │   └── styles              # CSS and styling
-│   └── package.json            # Frontend dependencies
+│   │   ├── components       
+│   │   ├── pages               
+│   │   └── styles              
+│   └── package.json           
 │
-└── README.md                   # Project documentation
+└── README.md                 
 
 
 ---
